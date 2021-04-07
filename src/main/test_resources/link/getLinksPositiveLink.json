@@ -1,0 +1,16 @@
+{
+  "name": "getLinksPositive",
+  "url": "https://t6.tss2020.site",
+  "secondsToCheck": 500,
+  "words": [
+    {
+      "value": "log"
+    },
+    {
+      "value": "in"
+    },
+    {
+      "value": "inostranes"
+    }
+  ]
+}

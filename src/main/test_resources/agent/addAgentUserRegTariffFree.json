@@ -1,0 +1,7 @@
+{ "username": "addAgentWithSecretKeyPositiveUser",
+  "email": "addAgentWithSecretKeyPositive@gmail.com",
+  "password": "addAgentWithSecretKeyPositive",
+  "role": "USER",
+  "tariff": "FREE",
+  "confirm": "YES"
+}

@@ -1,0 +1,7 @@
+{ "username": "addAgentAlreadyExistsNegative",
+  "email": "addAgentAlreadyExistsNegative@gmail.com",
+  "password": "addAgentAlreadyExistsNegative",
+  "role": "USER",
+  "tariff": "FREE",
+  "confirm": "YES"
+}
